@@ -11,7 +11,7 @@
        
        Main-Paragraph.
        
-           display "Hello Worlds".
+           display "Hello World".
            display " ".
            
            Stop Run.
